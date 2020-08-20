@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (4.10.1)
+  - lottie-ios (3.1.8)
+  - RevealingSplashView (0.6.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - lottie-ios
+  - RevealingSplashView
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - lottie-ios
+    - RevealingSplashView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: c6a3e729d13c025c7cb0e9f2683475c5df0089de
+
+COCOAPODS: 1.9.3
